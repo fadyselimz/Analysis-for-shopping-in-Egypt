@@ -101,26 +101,11 @@ The SQL database contains two core tables:
 
 ---
 
-## 🔁 File Rename Guide
-
-Rename your files before pushing to keep the repo clean and professional:
-
-| Current Filename | Rename To |
-|---|---|
-| `Final_project (SQL) .sql` | `egyptian-retail-analysis.sql` |
-| `Final_project (version 2).xlsb.xlsx` | `egyptian-retail-analysis.xlsx` |
-| `Final-project0 (2).pbix` | `egyptian-retail-dashboard.pbix` |
-| `Digital Egypt Pioneers Initiative.docx` | `project-report.docx` |
-| *(your cleaning notebook)* | `data-cleaning.ipynb` |
-
----
-
 ## 🚀 How to Use
 
-1. **Python** — Open `data-cleaning.ipynb` in Jupyter Notebook to see the cleaning and preprocessing steps applied to the raw Google Forms export
-2. **SQL** — Open `egyptian-retail-analysis.sql` in SQL Server Management Studio (SSMS) and run the full script to recreate the database and execute all queries
-3. **Excel** — Open `egyptian-retail-analysis.xlsx` to explore the cleaned dataset and pivot-based analysis
-4. **Power BI** — Open `egyptian-retail-dashboard.pbix` in Power BI Desktop to interact with the dashboard
+1. **SQL** — Open `egyptian-retail-analysis.sql` in SQL Server Management Studio (SSMS) and run the full script to recreate the database and execute all queries
+2. **Excel** — Open `egyptian-retail-analysis.xlsx` to explore the cleaned dataset and pivot-based analysis
+3. **Power BI** — Open `egyptian-retail-dashboard.pbix` in Power BI Desktop to interact with the dashboard
 
 ---
 
